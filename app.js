@@ -41,3 +41,4 @@ app.get('/clarke', (req,res) => {
 
 
 app.use(express.static(path.join(__dirname, 'public')))
+
